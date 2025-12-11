@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini Nexus",
+  "description": "A comprehensive multimodal AI interface featuring Text Chat, Computer Vision analysis, and Real-time Voice interactions using the latest Gemini models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
